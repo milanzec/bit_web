@@ -1,0 +1,86 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.headerimage {
+  background: #00bc9c;
+  text-align: center;
+  padding: 20px 0; }
+
+.about div hr {
+  border: 2px solid white;
+  width: 75%; }
+
+.about {
+  background: #00bc9c;
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px; }
+
+.about button {
+  color: white;
+  background: rgba(0, 188, 156, 0);
+  border: 1px solid white;
+  border-radius: 4px; }
+
+.contactme hr, h2 {
+  text-align: center; }
+
+.contactme input, textarea {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-bottom: 1px solid #6d6868; }
+
+.hrdark {
+  width: 75%;
+  border: 2px solid #161414;
+  margin: 10px auto; }
+
+.send {
+  margin: 5px 5px;
+  background: #00bc9c;
+  color: white;
+  border-radius: 4px;
+  border: none; }
+
+.footer {
+  background-color: #293e4f;
+  text-align: center;
+  color: white;
+  padding: 33px; }
+
+.footer h3 {
+  font: bold; }
+
+.bg-color {
+  background-color: #293e4f; }
+
+.text-white {
+  color: white; }
+
+.button-nav {
+  border-color: #293e4f;
+  text-align: center; }
+
+.headerh1 {
+  width: 100%;
+  font-size: 2em;
+  font-weight: 600; }
+
+hr.style-eight {
+  color: white;
+  border: 2px solid;
+  text-align: center;
+  width: 60%; }
+
+.maincontainer {
+  width: 100%;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px; }
+
+.maincontainer div div img {
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
