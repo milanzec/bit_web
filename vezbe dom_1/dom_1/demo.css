@@ -1,0 +1,15 @@
+.newClass{
+
+    background-color: yellow;
+}
+
+
+.supClass{
+
+    background-color: green;
+    
+}
+
+.active{
+    background: gray;
+}
