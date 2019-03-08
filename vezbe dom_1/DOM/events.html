@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Events</title>
+    <link rel="stylesheet" href="./events.css" type="text/css">
+
+    <script>
+
+        function toggleMainBackgroundColor() {
+            a = setInterval(function () {
+                document.body.classList.toggle('mainColor')
+            }, 1000)
+        }
+
+        function clearInt() {
+            clearInterval(a);
+        }
+
+    </script>
+</head>
+
+<body>
+
+
+    <button onclick="toggleMainBackgroundColor()">Toggle Background</button>
+    <button class="turnoff" onclick="clearInt()">Turn Off</button>
+
+</body>
+
+</html>

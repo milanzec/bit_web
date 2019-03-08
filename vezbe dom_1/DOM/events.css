@@ -1,0 +1,22 @@
+body {
+    
+}
+
+.mainColor {
+    background: #2d3e4f;
+}
+
+button {
+    display: block;
+    padding: 15px;
+    background: #c0392b;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    margin: 5px auto;
+}
+
+.turnoff {
+    background: #ffbe00;
+    color: white;
+}
