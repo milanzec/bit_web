@@ -1,0 +1,15 @@
+.bottomBorder {
+    border-bottom: 1px solid black;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.active {
+    color: red;
+}
+
+.backgroundGray {
+    background: lightgray;
+}
